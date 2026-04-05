@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Akshayadevi 👋
 
-<!--
-**Akshayadevi05/Akshayadevi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Fresher)
+🎓 B.Sc Chemistry Graduate
+🚀 Currently building web applications using modern technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* 🌐 HTML5, CSS3, Bootstrap
+* ⚡ JavaScript (ES6+)
+* ⚛️ React.js
+* 🔧 Basic Git & GitHub
+
+---
+
+## 📌 Projects
+
+* 🌐 Portfolio Website (Personal Profile Website)
+* 🔐 Login & Signup Page
+* 📄 Responsive Landing Page
+* ⚛️ React Mini Projects
+
+---
+
+## 💡 About Me
+
+I am a passionate Full Stack Developer with a background in Chemistry.
+I enjoy building responsive and user-friendly web applications.
+
+Currently focused on improving my skills in React and real-world project development.
+
+---
+
+## 🎯 Career Goal
+
+To start my career as a Full Stack Developer and work on real-world applications.
+
+---
+
+## 🔗 Connect With Me
+
+* 📧 Email: muthukumarakshayadevi@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/akshayadevi-m-080a17366
+
+---
+
+⭐ *Always learning, building, and improving!*
